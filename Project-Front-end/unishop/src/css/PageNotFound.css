@@ -1,0 +1,37 @@
+.h1_404 {
+    font-size: 100px;
+    font-weight:bold;
+    top:100px;
+    position: fixed;
+}
+.h2_404 {
+    position: relative;
+    text-align: left;
+    font-weight:bold;
+}
+
+.logo_404{
+    display:table-cell;
+    vertical-align:middle;
+    width:auto;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size:75px;
+    color: #46baee;
+    line-height:25px;
+    letter-spacing:1px;
+    position: fixed;
+    left: 20px;
+    top: 0px
+}
+
+.button_404{
+    width: 80px;
+    height: 20px;
+    display: block;
+    background-color: #4a77d4;
+    border: 1px solid #3762bc;
+    color: #fff;
+    font-size: 15px;
+    line-height: normal;
+    border-radius: 5px;
+}

@@ -1,0 +1,34 @@
+#section{
+	height: 100%;
+	width: 10%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	transition: .5s ease;
+	overflow-x: hidden;
+	border-style: solid;
+	border-color: black;
+	border-top: hidden;
+	border-left: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #68728c;
+
+}
+
+a{
+	font-weight: 800;
+	text-decoration: none;
+	border-style: solid;
+	border-top: hidden;
+	width:100%;
+	padding: 16px;
+	align-content: center;
+	font-family: ‘Open Sans’;
+	background-color: #80b5f6;
+	text-align: center;
+}
+
+

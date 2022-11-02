@@ -1,0 +1,74 @@
+table {
+    justify-items: left;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 15%;
+}
+
+
+.paymentHistory{
+    background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+th {
+    background: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+td {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    font-size: 18px;
+}
+th {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+}
+
+.labels tr td {
+    background-color: #2cc16a;
+    font-weight: bold;
+    color: #fff;
+}
+
+.label tr td label {
+    display: block;
+}
+
+
+.Collapsible{
+   justify-items: center;
+
+}
+
+.Collapsible__trigger {
+    display: block;
+    font-weight: 400;
+    text-decoration: none;
+    position: relative;
+    border: 1px solid white;
+    padding: 10px;
+    background:#2cc16a;
+    color: white;
+}
+
+
+.MuiTableContainer-root{
+    display:flex;
+}
+
+
+.paymentTable{
+    max-width: 100%; overflow-x: auto;
+}
+
+
+

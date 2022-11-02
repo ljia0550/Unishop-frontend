@@ -1,0 +1,67 @@
+#profile{
+    position: absolute;
+    top: 30%;
+    left:50%;
+    margin: -150px 0 0 -150px;
+    width: 300px;
+    height: 300px;
+}
+
+.profile{
+    background: linear-gradient(to bottom right, #E3F0FF, #FAFCFF);
+}
+#button{
+    position: absolute;
+    top: 80%;
+    left:50%;
+    margin: -150px 0 0 -150px;
+    width: 300px;
+    height: 300px;
+}
+
+.logo_profile{
+    display:table-cell;
+    vertical-align:middle;
+    width:auto;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size:75px;
+    color: #46baee;
+    line-height:25px;
+    letter-spacing:1px
+}
+.input_profile{
+    width: 278px;
+    height: 18px;
+    margin-bottom: 10px;
+    outline: none;
+    padding: 10px;
+    font-size: 13px;
+    color: #262525;
+    font-weight: 500;
+    border-top: 1px solid #312E3D;
+    border-left: 1px solid #312E3D;
+    border-right: 1px solid #312E3D;
+    border-bottom: 1px solid #56536A;
+    border-radius: 4px;
+    background-color: #e0dbbd;
+}
+
+.h2_profile{
+    text-align: left;
+    font-size: 30px;
+}
+
+.changePassword_button{
+    position: absolute;
+    top: 500px;
+    width: 265px;
+    height: 16px;
+    display: block;
+    background-color: #4a77d4;
+    border: 1px solid #3762bc;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+    line-height: normal;
+    border-radius: 5px;
+}
